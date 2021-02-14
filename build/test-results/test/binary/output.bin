@@ -1,0 +1,426 @@
+[1;31m
+Start test 1[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 2[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 3[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 4[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 5[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000006465420973
+Yout card PIN:
+2942
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000009888504035
+Yout card PIN:
+2769
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000006012878400
+Yout card PIN:
+2757
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000008288985083
+Yout card PIN:
+5486
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000001658032222
+Yout card PIN:
+8199
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+4000006465420973
+4000009888504035
+4000006012878400
+4000008288985083
+4000001658032222
+[1;31m
+Start test 6[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003099171106
+Yout card PIN:
+5231
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000003099171106
+Enter your PIN:
+> 5231
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 7[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000007324462834
+Yout card PIN:
+7464
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000007324462834
+Enter your PIN:
+> 8625
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 8[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000009948353886
+Yout card PIN:
+0672
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 400000498768719
+Enter your PIN:
+> 0672
+Wrong card number or PIN!
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 9[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000009973848875
+Yout card PIN:
+7497
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000009973848875
+Enter your PIN:
+> 7497
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 1
+Balance: 0
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 10[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003547263976
+Yout card PIN:
+7080
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000003547263976
+Enter your PIN:
+> 7080
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+
+Enter income:
+> 10000
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000003547263976
+Enter your PIN:
+> 7080
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+
+Enter income:
+> 15000
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 11[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003394529743
+Yout card PIN:
+4254
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000008623912164
+Yout card PIN:
+4677
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000008623912164
+Enter your PIN:
+> 4677
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Enter card number:
+> 2000007269641764
+CProbably you made a mistake in the card number. Please try again!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Enter card number:
+> 2000007269641768
+Such a card does not exist.
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Enter card number:
+> 4000003394529743
+,Enter how much money you want to transfer:
+	> 100000
+Not enough money!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+
+Enter income:
+> 20000
+Income was added!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Enter card number:
+> 4000003394529743
+,Enter how much money you want to transfer:
+> 10000
+
+Success!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 12[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000008174661988
+Yout card PIN:
+1566
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter yout card number:
+> 4000008174661988
+Enter your PIN:
+> 1566
+"You have successfully logged in!
+
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 4
+The account has been closed!
+
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
