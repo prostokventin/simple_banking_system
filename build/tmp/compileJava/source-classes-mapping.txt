@@ -1,6 +1,0 @@
-banking/Main.java
- banking.Main
-banking/Account.java
- banking.Account
-banking/DB.java
- banking.DB
